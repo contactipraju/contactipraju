@@ -1,14 +1,20 @@
 ### Hi there 👋
 
 <br/>
+
 - 💬 Ask me about: Web, Mobile and Hybrid app development
 - 📫 Reach me via: LinkedIn Messaging
+
 <br/>
+
 <a href="https://www.linkedin.com/in/prasadaraju/">
   <img align="left" alt="Prasada Indukuri" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <br/>
+
 ![Prasada's github stats](https://github-readme-stats.vercel.app/api?username=contactipraju&show_icons=true&hide_border=true)
+
 <br/>
 
 <!--
