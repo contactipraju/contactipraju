@@ -1,9 +1,11 @@
-### Hi there 👋
+- 💬 Ask me about: Web, Mobile and Hybrid app development
+- 📫 Reach me via:  <a href="https://www.linkedin.com/in/prasadaraju/"><img alt="Prasada Indukuri" width="22px" height="20px" src="https://cdn.simpleicons.org/linkedin/white/white" /></a>
 
 <br/>
 
-- 💬 Ask me about: Web, Mobile and Hybrid app development
-- 📫 Reach me via:  <a href="https://www.linkedin.com/in/prasadaraju/"><img alt="Prasada Indukuri" width="22px" height="20px" src="https://cdn.simpleicons.org/linkedin/white/white" /></a>
+<!--
+
+### Hi there 👋
 
 <br/>
 
@@ -11,7 +13,6 @@
 
 <br/>
 
-<!--
 **contactipraju/contactipraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
