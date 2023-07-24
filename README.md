@@ -3,11 +3,7 @@
 <br/>
 
 - 💬 Ask me about: Web, Mobile and Hybrid app development
-- 📫 Reach me via: LinkedIn Messaging
-
-<br/>
-
-<a href="https://www.linkedin.com/in/prasadaraju/"><img align="left" alt="Prasada Indukuri" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+- 📫 Reach me via:  <a href="https://www.linkedin.com/in/prasadaraju/"><img alt="Prasada Indukuri" width="22px" height="20px" src="https://cdn.simpleicons.org/linkedin/white/white" /></a>
 
 <br/>
 
