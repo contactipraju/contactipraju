@@ -2,6 +2,9 @@
 - 📫 Reach me via:  <a href="https://www.linkedin.com/in/prasadaraju/"><img alt="Prasada Indukuri" width="22px" height="20px" src="https://cdn.simpleicons.org/linkedin/white/white" /></a>
 
 <br/>
+Download Resume:
+<a href="https://github.com/contactipraju/contactipraju/blob/master/files/Prasada-Indukuri-SrFrontendEng-Resume.pdf" classname="btn btn-outline" download="">PDF</a>
+<a href="/files/Prasada-Indukuri-SrFrontendEng-Resume.docx" classname="btn btn-outline" download="">DOC</a>
 
 <!--
 
