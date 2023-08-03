@@ -1,5 +1,4 @@
-- 💬 Ask me about: Web, Mobile and Hybrid app development
-- 📫 Reach me via:  <a href="https://www.linkedin.com/in/prasadaraju/"><img alt="Prasada Indukuri" width="22px" height="20px" src="https://cdn.simpleicons.org/linkedin/white/white" /></a>
+Open to collaborate on: Web, Mobile and Hybrid app development
 
 <br/>
 Resume:
