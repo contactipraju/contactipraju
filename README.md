@@ -1,6 +1,3 @@
-Open to collaborate on: Web, Mobile and Hybrid app development
-
-<br/>
 Resume:
 <a href="/files/Prasada-Indukuri-SrFrontendEng-Resume.pdf" classname="btn btn-outline" download="">PDF</a>
 <a href="/files/Prasada-Indukuri-SrFrontendEng-Resume.docx" classname="btn btn-outline" download="">DOC</a>
