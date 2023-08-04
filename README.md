@@ -1,21 +1,20 @@
-Resume:
-<a href="/files/Prasada-Indukuri-SrFrontendEng-Resume.pdf" classname="btn btn-outline" download="">PDF</a>
-<a href="/files/Prasada-Indukuri-SrFrontendEng-Resume.docx" classname="btn btn-outline" download="">DOC</a>
+### Who am I:
+A Frontend-focussed Web Developer with extenive experience in all things Javascript/TypeScript
 
-Cover Letter:
-<a href="/files/Prasada-Indukuri-Sr-Frontend-Eng-Cover-Letter.pdf" classname="btn btn-outline" download>PDF</a>
-<a href="/files/Prasada-Indukuri-Sr-Frontend-Eng-Cover-Letter.docx" classname="btn btn-outline" download>DOC</a>
+### Currently Using:
+Frontend: React, Redux, TailwindCSS <br />
+Backend: NodeJS, Express, NextJS <br />
+Testing: Mocha, Chai, Jest <br />
+Storage: MongoDB, Convex, KeyStatic, Firebase <br />
+
+### More about me:
+To know more about my Profile, Skills, Portfolio and Contact Details, visit my <a href="https://texperience-360.web.app/">Website</a>
 
 <!--
-
 ### Hi there 👋
-
 <br/>
-
 ![Prasada's github stats](https://github-readme-stats.vercel.app/api?username=contactipraju&show_icons=true&hide_border=true)
-
 <br/>
-
 **contactipraju/contactipraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
