@@ -8,7 +8,7 @@ Testing: Mocha, Chai, Jest <br />
 Storage: MongoDB, Convex, KeyStatic, Firebase <br />
 
 ### More about me:
-To know more about my Profile, Skills, Portfolio and Contact Details, visit my <a href="https://texperience-360.web.app/">Website</a>
+To know more about my Profile, Skills, Portfolio and Contact Details, visit my <a target='_blank' rel='noreferrer' href="https://texperience-360.web.app/">Website</a>
 
 <!--
 ### Hi there 👋
