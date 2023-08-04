@@ -7,6 +7,9 @@ Backend: NodeJS, Express, NextJS <br />
 Testing: Mocha, Chai, Jest <br />
 Storage: MongoDB, Convex, KeyStatic, Firebase <br />
 
+### Open to collaborate on:
+Web, Mobile and Hybrid app development, Frontend Architecture
+
 ### More about me:
 To know more about my Profile, Skills, Portfolio and Contact Details, visit my <a target='_blank' rel='noreferrer' href="https://texperience-360.web.app/">Website</a>
 
