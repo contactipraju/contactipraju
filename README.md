@@ -7,6 +7,9 @@ Backend: NodeJS, Express, NextJS <br />
 Testing: Mocha, Chai, Jest <br />
 Storage: MongoDB, Convex, KeyStatic, Firebase <br />
 
+### Outside my work, I:
+Participate actively in Sydney tech meetups: ng-sydney, react-sydney, SydJS, SydCSS etc
+
 ### Open to collaborate on:
 Web, Mobile and Hybrid app development, Frontend Architecture
 
