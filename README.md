@@ -1,7 +1,10 @@
 ### Who am I:
 A Frontend-focussed Web Developer with extenive experience in all things Javascript/TypeScript
 
-### Currently Using:
+### Currently Experimenting:
+ALL THINGS AI (RAG, Realtime RAG, AgenticAI etc) and Python
+
+### Recently Using:
 Frontend: React, Redux, TailwindCSS <br />
 Backend: NodeJS, Express, NextJS <br />
 Testing: Mocha, Chai, Jest <br />
@@ -11,10 +14,10 @@ Storage: MongoDB, Convex, KeyStatic, Firebase <br />
 Participate actively in Sydney tech meetups: ng-sydney, react-sydney, SydJS, SydCSS etc
 
 ### Open to collaborate on:
-Web, Mobile and Hybrid app development, Frontend Architecture
+Web, Mobile and Hybrid app development, Frontend Architecture, Building AI Solutions to real-problems
 
 ### More about me:
-To know more about my Profile, Skills, Portfolio and Contact Details, visit my <a target='_blank' rel='noreferrer' href="https://texperience-360.web.app/">Website</a>
+visit my <a target='_blank' rel='noreferrer' href="https://texperience-360.web.app/">Website</a> to know about my Skills, Portfolio and Contact Details
 
 <!--
 ### Hi there 👋
